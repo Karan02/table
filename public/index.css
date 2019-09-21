@@ -1,0 +1,12 @@
+.root{
+    MARGIN: auto;
+    ALIGN-CONTENT: center;
+    JUSTIFY-CONTENT: CENTER;
+    DISPLAY: GRID;
+    ALIGN-ITEMS: center;
+    vertical-align: middle;
+    padding: 150px;
+  }
+  p{
+    margin-bottom: 0px;
+  }
